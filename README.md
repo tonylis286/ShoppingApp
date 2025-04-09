@@ -17,13 +17,13 @@ Build a full-featured online marketplace platform with essential shopping featur
 
 ---
 
-## ✅ In Scope
+## In Scope
 
 ### 🔁 Reused / Modified Components
 
-- ✅ **User Registration & Login System**  
-- ✅ **Product Catalog**  
-- ✅ **Cart System**  
+- **User Registration & Login System**  
+- **Product Catalog**  
+- **Cart System**  
 
 These components are being reused and adapted from existing codebases.
 
