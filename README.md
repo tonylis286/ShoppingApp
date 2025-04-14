@@ -6,7 +6,7 @@ This is an in-progress **Customer-to-Customer (C2C) Online Marketplace** project
 
 ---
 
-## ✨ Project Objectives
+##  Project Objectives
 
 Build a full-featured online marketplace platform with essential shopping features and an enhanced user experience, including:
 
@@ -39,7 +39,7 @@ These components are being reused and adapted from existing codebases.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Frontend: React / React Native  
 - Backend: Node.js + Express  
@@ -49,7 +49,7 @@ These components are being reused and adapted from existing codebases.
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
