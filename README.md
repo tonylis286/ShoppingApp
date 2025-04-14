@@ -14,7 +14,7 @@ Build a full-featured online marketplace platform with essential shopping featur
 - Product catalog browsing
 - Shopping cart and checkout flow
 - C2C listing and transaction capabilities
-
+![Image text](https://github.com/tonylis286/ShoppingApp/blob/master/photo/Frame%201%20(2).png)
 ---
 
 ## In Scope
