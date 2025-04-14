@@ -1,4 +1,4 @@
-# 🛒 C2C Marketplace Platform
+# 🛒 C2C Marketplace Platform (Unfinished)
 
 This is an in-progress **Customer-to-Customer (C2C) Online Marketplace** project inspired by platforms like Carousell. It allows users to buy and sell products directly with each other.
 
